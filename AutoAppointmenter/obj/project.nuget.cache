@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "cGxa0Emu12DuEWvHWrW+MEpsN5udTkoxagVC+Pb2e2NYxGsul9vgWWfbk7u6MJDAVtJIAgNyn36gq5E67ry/RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atsuk\\Desktop\\MinecraftDevelopments\\C#\\AutoAppointmenter\\AutoAppointmenter\\AutoAppointmenter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atsuk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\quartz\\3.5.0\\quartz.3.5.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\reactiveproperty\\9.0.0-pre202301080724\\reactiveproperty.9.0.0-pre202301080724.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\reactiveproperty.core\\9.0.0-pre202301080724\\reactiveproperty.core.9.0.0-pre202301080724.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\reactiveproperty.wpf\\9.0.0-pre202301080724\\reactiveproperty.wpf.9.0.0-pre202301080724.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\atsuk\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

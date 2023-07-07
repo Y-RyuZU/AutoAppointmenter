@@ -1,0 +1,3 @@
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\win-x86\publish\AutoAppointmenter.pdb
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\win-x86\publish\selenium-manager\macos\selenium-manager
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\win-x86\publish\AutoAppointmenter.exe

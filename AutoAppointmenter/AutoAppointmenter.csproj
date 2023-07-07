@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Quartz" Version="3.5.0" />
+      <PackageReference Include="ReactiveProperty.WPF" Version="9.0.0-pre202301080724" />
+      <PackageReference Include="Selenium.WebDriver" Version="4.7.0" />
+    </ItemGroup>
+
+    <Target Name="AfterResolveReferences">
+        <ItemGroup>
+            <EmbeddedResource Include="@(ReferenceCopyLocalPaths)" Condition="'%(ReferenceCopyLocalPaths.Extension)' == '.dll'">
+                <LogicalName>%(ReferenceCopyLocalPaths.DestinationSubDirectory)%(ReferenceCopyLocalPaths.Filename)%(ReferenceCopyLocalPaths.Extension)</LogicalName>
+            </EmbeddedResource>
+        </ItemGroup>
+    </Target>
+
+</Project>
