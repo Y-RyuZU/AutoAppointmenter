@@ -10,7 +10,7 @@
     <ItemGroup>
       <PackageReference Include="Quartz" Version="3.5.0" />
       <PackageReference Include="ReactiveProperty.WPF" Version="9.0.0-pre202301080724" />
-      <PackageReference Include="Selenium.WebDriver" Version="4.7.0" />
+      <PackageReference Include="Selenium.WebDriver" Version="4.12.4" />
     </ItemGroup>
 
     <Target Name="AfterResolveReferences">

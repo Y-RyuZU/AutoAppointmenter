@@ -33,3 +33,10 @@ C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmen
 C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\obj\Release\net6.0-windows\AutoAppointmenter.pdb
 C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\obj\Release\net6.0-windows\AutoAppointmenter.genruntimeconfig.cache
 C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\obj\Release\net6.0-windows\ref\AutoAppointmenter.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\System.Drawing.Common.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\atsuk\Desktop\MinecraftDevelopments\C#\AutoAppointmenter\AutoAppointmenter\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
